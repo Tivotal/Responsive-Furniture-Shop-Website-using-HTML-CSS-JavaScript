@@ -962,6 +962,7 @@ section {
 
 ::-webkit-scrollbar-thumb {
   background: #4070f4;
+  border-radius: 1rem;
 }
 
 @media (max-width: 991px) {
