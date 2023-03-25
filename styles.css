@@ -225,6 +225,20 @@ section {
   color: #4070f4;
 }
 
+.btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.9rem 3rem;
+  font-size: 1.7rem;
+  background: #4070f4;
+  color: #fff;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #0b21ad;
+}
+
 .shopping-cart .btn {
   width: 100%;
   text-align: center;
@@ -348,20 +362,6 @@ section {
   color: #779;
   padding: 0.5rem 0;
   line-height: 2;
-}
-
-.btn {
-  display: inline-block;
-  margin-top: 1rem;
-  padding: 0.9rem 3rem;
-  font-size: 1.7rem;
-  background: #4070f4;
-  color: #fff;
-  cursor: pointer;
-}
-
-.btn:hover {
-  background: #0b21ad;
 }
 
 .home .slides-container .slide .image {
